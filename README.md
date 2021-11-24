@@ -1,2 +1,2 @@
 # **Hello Earth I'm Nidheesha T**
-<p>Just experimenting life</p>
+<p align="center">Just experimenting life</p>
